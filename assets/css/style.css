@@ -189,4 +189,8 @@ a:focus {
     padding: 50px 30px;
   }
 }
+
+.photo-img {
+  max-width: 200px !important;
+}
 /*# sourceMappingURL=style.css.map */
